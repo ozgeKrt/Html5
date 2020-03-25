@@ -1,6 +1,6 @@
-# ozgeKrt
+# HTML5
 
-
+HTML işaretleme dilinin son versiyonu olan HTML5 ile her bir etiket için örnek çalışma ve uygulamalar yapmış bulunmaktayım.
 
 ##Contributors
 
